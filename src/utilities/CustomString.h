@@ -1,0 +1,4 @@
+#ifndef CUSTOMSTRING_H
+#define CUSTOMSTRING_H
+
+#endif // CUSTOMSTRING_H
