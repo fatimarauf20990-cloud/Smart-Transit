@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SmartTransit_autogen"
-  "SmartTransit_autogen/include/ui_mainwindow.h"
   "SmartTransit_autogen/mocs_compilation.cpp"
   "SmartTransit_autogen/timestamp"
 )

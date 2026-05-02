@@ -1,20 +1,20 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit",
+	"BUILD_DIR" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Projects/SmartTransit",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/CMakeLists.txt",
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qtcreator/cmake-helper/package-manager.cmake",
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
+		"C:/Projects/SmartTransit/CMakeLists.txt",
+		"C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qtcreator/cmake-helper/package-manager.cmake",
+		"C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
@@ -27,7 +27,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake",
+		"C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
@@ -327,14 +327,94 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit",
+	"CMAKE_SOURCE_DIR" : "C:/Projects/SmartTransit",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/deps",
+	"DEP_FILE" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "SmartTransit_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"C:/Projects/SmartTransit/include/controllers/DataManager.h",
+			"MU",
+			"BAFWLH3SZT/moc_DataManager.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/DispatchConsoleWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_DispatchConsoleWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/FleetManagementWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_FleetManagementWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/LiveMapWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_LiveMapWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/LoginWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_LoginWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/MainDashboardWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_MainDashboardWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/MaintenanceWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_MaintenanceWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/ReportDashboardWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_ReportDashboardWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/RouteBuilderWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_RouteBuilderWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/StaffManagementWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_StaffManagementWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/TicketingWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_TicketingWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/TripSchedulerWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_TripSchedulerWindow.cpp",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/utilities/CustomString.h",
+			"MU",
+			"JLQFWLRVOM/moc_CustomString.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"MINGW_HAS_SECURE_API=1",
@@ -358,7 +438,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/lenovo/OneDrive/Documents/SmartTransit/include",
+		"C:/Projects/SmartTransit/include",
+		"C:/Projects/SmartTransit/src",
 		"C:/Qt/6.11.0/mingw_64/include/QtCore",
 		"C:/Qt/6.11.0/mingw_64/include",
 		"C:/Qt/6.11.0/mingw_64/mkspecs/win32-g++",
@@ -391,18 +472,259 @@
 		"-c",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SmartTransit_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/SmartTransit_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/SmartTransit_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.11.0/mingw_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/6.11.0/mingw_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 11,
-	"SETTINGS_FILE" : "C:/Users/lenovo/OneDrive/Documents/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/SmartTransit_autogen.dir/AutogenUsed.txt",
-	"SOURCES" : [],
+	"SETTINGS_FILE" : "C:/Projects/SmartTransit/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/SmartTransit_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Projects/SmartTransit/main.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/controllers/AppController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/AuthController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/DataManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/DispatchController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/FileController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/FleetController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/IncidentController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/MaintenanceController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/PaymentController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/ReportController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/RouteController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/StaffController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/TicketingController.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/controllers/TripController.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/AdminUser.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/ArticulatedBus.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/CashProcessor.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/ChargingStation.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/CityBus.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Conductor.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/CorporateAccountProcessor.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/Dispatcher.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/DisplayBoardNotifier.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/Driver.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/DriverPerformanceReport.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/entities/ElectricScooter.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/EmailNotifier.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/EmissionsReport.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/Entity.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/FlatFareBus.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/FleetUtilisationReport.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/FreightTruck.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/FuelLog.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/HighSpeedTrain.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/Incident.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/IncidentReport.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/entities/LoyaltyPointsProcessor.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/entities/MaintenanceJob.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/entities/MaintenanceTech.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/MetroTrain.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/MicroMobility.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Passenger.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Person.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/PushNotifier.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/QRCodeProcessor.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/entities/RefrigeratedTruck.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/RevenueReport.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/RideHailCar.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Route.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/RouteEfficiencyReport.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/SMSNotifier.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/SeniorDriver.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/StaffMember.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Stop.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/SurgeRideHail.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Ticket.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/TransitAsset.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/TransitCardProcessor.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/entities/Trip.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/Vehicle.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/entities/WeightFreight.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/entities/ZoneBasedMetro.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/exceptions/TransitException.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/DispatchConsoleWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Projects/SmartTransit/src/gui/FleetManagementWindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/gui/LiveMapWindow.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/gui/LoginWindow.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/gui/MainDashboardWindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/gui/MaintenanceWindow.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/gui/ReportDashboardWindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/gui/RouteBuilderWindow.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/gui/StaffManagementWindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/gui/TicketingWindow.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/gui/TripSchedulerWindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Projects/SmartTransit/src/utilities/CustomDate.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/utilities/CustomString.cpp", "MU", null ],
+		[ "C:/Projects/SmartTransit/src/utilities/CustomTime.cpp", "MU", null ],
+		[
+			"C:/Projects/SmartTransit/src/utilities/GeoCoordinate.cpp",
+			"MU",
+			null
+		]
+	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],

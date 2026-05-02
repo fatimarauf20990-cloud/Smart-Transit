@@ -1,4 +1,3 @@
 # Hashes of file build rules.
-5bf22c65074b22530f686ece3680ad80 .qt/rcc/qrc_SmartTransit_translations.cpp
-dff5ed0f0586765e666c9e1e5875232c SmartTransit_autogen/timestamp
-6cc6bfd20fe68e2b1a87df187a9df306 SmartTransit_en_PK.qm
+f1de4c9ef57bef438b678a00111da234 CMakeFiles/SmartTransit_autogen
+f60d4c0d3dd9f54cd7902ebfb27fcfd6 SmartTransit_autogen/timestamp

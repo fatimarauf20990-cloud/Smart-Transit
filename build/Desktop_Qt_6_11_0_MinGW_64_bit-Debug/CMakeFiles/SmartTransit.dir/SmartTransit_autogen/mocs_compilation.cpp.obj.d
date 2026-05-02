@@ -1,9 +1,9 @@
 CMakeFiles/SmartTransit.dir/SmartTransit_autogen/mocs_compilation.cpp.obj: \
- C:\Users\lenovo\OneDrive\Documents\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\mocs_compilation.cpp \
- C:\Users\lenovo\OneDrive\Documents\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\EWIEGA46WW/moc_mainwindow.cpp \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/mainwindow.h \
- C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
- C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmainwindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\mocs_compilation.cpp \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_DispatchConsoleWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/DispatchConsoleWindow.h \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
@@ -157,7 +157,6 @@ CMakeFiles/SmartTransit.dir/SmartTransit_autogen/mocs_compilation.cpp.obj: \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
- C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
@@ -386,7 +385,27 @@ CMakeFiles/SmartTransit.dir/SmartTransit_autogen/mocs_compilation.cpp.obj: \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h \
  C:/Qt/6.11.0/mingw_64/include/QtGui/qbitmap.h \
- C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmochelpers.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmocconstants.h \
- C:/Qt/6.11.0/mingw_64/include/QtCore/q20algorithm.h
+ C:/Qt/6.11.0/mingw_64/include/QtCore/q20algorithm.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_FleetManagementWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/FleetManagementWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_LiveMapWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/LiveMapWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_LoginWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/LoginWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_MainDashboardWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/MainDashboardWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_MaintenanceWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/MaintenanceWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_ReportDashboardWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/ReportDashboardWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_RouteBuilderWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/RouteBuilderWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_StaffManagementWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/StaffManagementWindow.h \
+ C:/Qt/6.11.0/mingw_64/include/QtCore/QSet \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_TicketingWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/TicketingWindow.h \
+ C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\SmartTransit_autogen\MXUWEOXILK/moc_TripSchedulerWindow.cpp \
+ C:/Projects/SmartTransit/src/gui/TripSchedulerWindow.h

@@ -52,10 +52,10 @@ RM = C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\lenovo\OneDrive\Documents\SmartTransit
+CMAKE_SOURCE_DIR = C:\Projects\SmartTransit
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\lenovo\OneDrive\Documents\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+CMAKE_BINARY_DIR = C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug
 
 # Utility rule file for SmartTransit_autogen_timestamp_deps.
 
@@ -77,6 +77,6 @@ CMakeFiles/SmartTransit_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/SmartTransit_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/SmartTransit_autogen_timestamp_deps.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\lenovo\OneDrive\Documents\SmartTransit C:\Users\lenovo\OneDrive\Documents\SmartTransit C:\Users\lenovo\OneDrive\Documents\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug C:\Users\lenovo\OneDrive\Documents\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug C:\Users\lenovo\OneDrive\Documents\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles\SmartTransit_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Projects\SmartTransit C:\Projects\SmartTransit C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug C:\Projects\SmartTransit\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles\SmartTransit_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/SmartTransit_autogen_timestamp_deps.dir/depend
 

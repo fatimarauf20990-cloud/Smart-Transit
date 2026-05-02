@@ -1,8 +1,8 @@
 CMakeFiles/SmartTransit.dir/src/entities/WeightFreight.cpp.obj: \
- C:\Users\lenovo\OneDrive\Documents\SmartTransit\src\entities\WeightFreight.cpp \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/entities/WeightFreight.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/entities/IFareCalculator.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/utilities/CustomString.h \
+ C:\Projects\SmartTransit\src\entities\WeightFreight.cpp \
+ C:/Projects/SmartTransit/include/entities/WeightFreight.h \
+ C:/Projects/SmartTransit/include/entities/IFareCalculator.h \
+ C:/Projects/SmartTransit/include/utilities/CustomString.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

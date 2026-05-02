@@ -1,9 +1,9 @@
 CMakeFiles/SmartTransit.dir/src/entities/TransitAsset.cpp.obj: \
- C:\Users\lenovo\OneDrive\Documents\SmartTransit\src\entities\TransitAsset.cpp \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/entities/TransitAsset.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/entities/Entity.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/utilities/CustomDate.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/utilities/CustomString.h \
+ C:\Projects\SmartTransit\src\entities\TransitAsset.cpp \
+ C:/Projects/SmartTransit/include/entities/TransitAsset.h \
+ C:/Projects/SmartTransit/include/entities/Entity.h \
+ C:/Projects/SmartTransit/include/utilities/CustomDate.h \
+ C:/Projects/SmartTransit/include/utilities/CustomString.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -146,4 +146,4 @@ CMakeFiles/SmartTransit.dir/src/entities/TransitAsset.cpp.obj: \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/utilities/GeoCoordinate.h
+ C:/Projects/SmartTransit/include/utilities/GeoCoordinate.h

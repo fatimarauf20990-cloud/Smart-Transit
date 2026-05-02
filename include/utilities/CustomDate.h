@@ -12,4 +12,11 @@ public:
 
     bool isValid() const;
     void print() const;
+    class Custom_Date {
+        // ... your fields ...
+    public:
+        // ... other methods ...
+
+        static CustomDate today(); // Add this line!
+    };
 };

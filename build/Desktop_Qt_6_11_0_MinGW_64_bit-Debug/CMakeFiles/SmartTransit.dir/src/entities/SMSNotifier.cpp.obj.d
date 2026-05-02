@@ -1,8 +1,8 @@
 CMakeFiles/SmartTransit.dir/src/entities/SMSNotifier.cpp.obj: \
- C:\Users\lenovo\OneDrive\Documents\SmartTransit\src\entities\SMSNotifier.cpp \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/entities/SMSNotifier.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/entities/INotifiable.h \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/utilities/CustomString.h \
+ C:\Projects\SmartTransit\src\entities\SMSNotifier.cpp \
+ C:/Projects/SmartTransit/include/entities/SMSNotifier.h \
+ C:/Projects/SmartTransit/include/entities/INotifiable.h \
+ C:/Projects/SmartTransit/include/utilities/CustomString.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

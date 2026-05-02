@@ -1,6 +1,6 @@
 CMakeFiles/SmartTransit.dir/src/utilities/GeoCoordinate.cpp.obj: \
- C:\Users\lenovo\OneDrive\Documents\SmartTransit\src\utilities\GeoCoordinate.cpp \
- C:/Users/lenovo/OneDrive/Documents/SmartTransit/include/utilities/GeoCoordinate.h \
+ C:\Projects\SmartTransit\src\utilities\GeoCoordinate.cpp \
+ C:/Projects/SmartTransit/include/utilities/GeoCoordinate.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
